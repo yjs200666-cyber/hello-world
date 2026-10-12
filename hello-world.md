@@ -8,4 +8,4 @@
 *Symphony No. 5* by Ludwig van Beethoven
 
 ## Our Course Database
-[My GitHub Repository](https://github.com/yjs200666-cyber/hello-world)
+[medicalhumanitiesmusic-2026-2](https://github.com/hskye79/medicalhumanitiesmusic-2026-2)
