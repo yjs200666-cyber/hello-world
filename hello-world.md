@@ -1,7 +1,7 @@
 # Hello, world!
 
 ## About Me
-- **Name:** junsei yun
+- **Name:** junseo yun
 - **Major:** public administration
 
 ## A Piece of Music I Love
